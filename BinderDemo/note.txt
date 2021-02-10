@@ -1,0 +1,9 @@
+client:
+BpMyService::sayHello
+get num from BnMyService: 2015
+
+
+
+server:
+BnMyService:: got the client hello
+BnMyService::sayHello
